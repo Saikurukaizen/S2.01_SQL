@@ -41,9 +41,9 @@ git clone https://github.com/Saikuruaizen/S2.01_SQL.git
 - Abre los archivos .sql o importalas en la aplicación y ejecútalo para abrir las db
 
 ## 📁 Contenido
-- S2.01_SQLQueries contiene un archivo de consultas.sql para interactuar con las bases de datos
+- Contiene un archivo de consultas.sql para interactuar con las bases de datos
 llamadas "Tienda" y "Universidad".
-- S2.02_SQLModelo contiene dos bases de datos: "optica_cul.sql" y "pizzeria.sql". Ambos tienen una imagen .png
+- La carpeta S2.02_SQLModelo contiene dos bases de datos: "optica_cul.sql" y "pizzeria.sql". Ambos tienen una imagen .png
 con la visualización del modelo creada en MySQL Workbench
 
 ## 📚 Recursos adicionales
